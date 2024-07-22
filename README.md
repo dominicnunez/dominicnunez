@@ -10,12 +10,12 @@
 <h1>Hi there 👋 I'm Dominic Nunez.</h1>
 (He/Him)
 
-🔭 I’m currently learning
+🔭 I’m currently learning:
 	<ul>
 	<li>Full stack web development</li>
 	</ul>
 
-👥 I’m looking to collaborate on ...
+👥 I’m looking to collaborate on:
 	<ul>
 		<li>Any website!</li>
 	</ul>
