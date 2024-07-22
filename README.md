@@ -9,7 +9,7 @@
 
 <h1>Hi there 👋 I'm Dominic Nunez.</h1>
 (He/Him)
-
+<p>&nbsp;</p>
 🔭 I’m currently learning:
 	<ul>
 	<li>Full stack web development</li>
