@@ -11,7 +11,8 @@
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
-	
+
+<h1>About Me</h1>
 Hi there 👋 I'm Dominic Nunez. (He/Him)
 	
 🔭 I’m currently learning
