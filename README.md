@@ -7,8 +7,8 @@
 	</a>
 </p>
 
-<h1>About Me</h1>
-Hi there 👋 I'm Dominic Nunez. (He/Him)
+<h1>Hi there 👋 I'm Dominic Nunez.</h1>
+He/Him
 	
 🔭 I’m currently learning
 	<ul>
