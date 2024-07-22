@@ -18,7 +18,6 @@ Hi there 👋 I'm Dominic Nunez. (He/Him)
 	<ul>
 	<li>Full stack web development</li>
 	</ul>
-&nbsp;
 
 👥 I’m looking to collaborate on ...
 	<ul>
