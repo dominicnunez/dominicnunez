@@ -1,7 +1,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/dominic-natural-talent/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
      <a href="mailto:dominicnunez@gmail.com">
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
@@ -9,7 +9,7 @@
 
 <h1>Hi there 👋 I'm Dominic Nunez.</h1>
 (He/Him)
-&nbsp;	
+
 🔭 I’m currently learning
 	<ul>
 	<li>Full stack web development</li>
