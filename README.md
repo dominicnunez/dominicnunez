@@ -12,7 +12,7 @@
 <p></p>
 🔭 I’m currently learning:
 	<ul>
-	<li>Full stack web development</li>
+		<li>Full stack web development</li>
 	</ul>
 
 👥 I’m looking to collaborate on:
