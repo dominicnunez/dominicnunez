@@ -13,14 +13,8 @@
 🔭 I’m currently learning:
 	<ul>
 		<li>Full stack web development</li>
+		<li>Claude Code</li>
 	</ul>
-
-👥 I’m looking to collaborate on:
-	<ul>
-		<li>Any website!</li>
-	</ul>
-	
-
 	
 <h1>Featured Projects</h1>
 Coming soon!
