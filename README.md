@@ -19,7 +19,7 @@ I make things with AI and ship them from a terminal. Most of my best work is in 
 **Frontend:** SvelteKit · Tailwind · shadcn  
 **Backend:** Convex · Go  
 **Infra:** NixOS · Hetzner Helsinki 🇫🇮  
-**AI:** Claude (obviously)
+**AI:** Anthropic, OpenAI, Gemini, etc.
 
 ## Connect
 
