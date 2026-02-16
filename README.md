@@ -12,7 +12,7 @@ I make things with AI and ship them from a terminal. Most of my best work is in 
 
 🔧 **OpenClaw contributor** — [structured error classification](https://github.com/openclaw/openclaw/issues/16521) refactor (PR ready, waiting on maintainers)
 
-🔨 **Thor** — Go-based crypto analytics (private)
+⚡ **Thor** — Go-based crypto analytics (private)
 
 ## Stack
 
