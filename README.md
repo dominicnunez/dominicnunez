@@ -6,7 +6,7 @@ I make things with AI and ship them from a terminal. Most of my best work is in 
 
 ## What I'm Working On
 
-🧠 **AI companion app** — memory system that actually remembers you (not just your name and that you like coffee)
+🧠 **AI companion app** — memory system that actually remembers more than your name.
 
 ❄️ **Nix flakes** — packaging developer tools so they just work.
 
