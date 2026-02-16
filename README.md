@@ -1,6 +1,6 @@
 # Hey, I'm Dominic
 
-Builder. The greatest not-engineer that ever lived.
+The greatest not-engineer that ever lived.
 
 I make things with AI and ship them from a terminal. Most of my best work is in private repos — you'll just have to trust me on that.
 
