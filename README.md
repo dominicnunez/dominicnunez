@@ -1,4 +1,4 @@
-# Hey, I'm Dominic 👋
+# Hey, I'm Dominic
 
 Builder. The greatest not-engineer that ever lived.
 
