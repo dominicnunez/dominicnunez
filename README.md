@@ -8,7 +8,7 @@ I make things with AI and ship them from a terminal. Most of my best work is in 
 
 🧠 **AI companion app** — memory system that actually remembers you (not just your name and that you like coffee)
 
-🧊 **Nix flakes** — packaging developer tools so they Just Work™. [opencode-nix](https://github.com/dominicnunez/opencode-nix) and [claude-code-nix](https://github.com/dominicnunez/claude-code-nix) are the public ones
+❄️ **Nix flakes** — packaging developer tools so they Just Work™. [opencode-nix](https://github.com/dominicnunez/opencode-nix) and [claude-code-nix](https://github.com/dominicnunez/claude-code-nix) are the public ones
 
 🔧 **OpenClaw contributor** — [structured error classification](https://github.com/openclaw/openclaw/issues/16521) refactor (PR ready, waiting on maintainers)
 
