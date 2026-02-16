@@ -27,4 +27,4 @@ I make things with AI and ship them from a terminal. Most of my best work is in 
 
 ---
 
-*"Well duh, it remembers you."*
+*"Enough, you idiot! Shorten it to 20 words or less!"* — Saitama
