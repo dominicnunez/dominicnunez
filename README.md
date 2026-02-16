@@ -1,32 +1,30 @@
-<p align='center'>
-  <a href="https://www.linkedin.com/in/dominic-natural-talent/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-	<a href="mailto:dominicnunez@gmail.com">
- <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
+# Hey, I'm Dominic 👋
 
-<h1>Hi there 👋 I'm Dominic Nunez.</h1>
-(He/Him)
-<p></p>
-🔭 I’m currently learning:
-	<ul>
-		<li>Full stack web development</li>
-		<li>Claude Code</li>
-	</ul>
-	
-<h1>Featured Projects</h1>
-Coming soon!
+Builder. The greatest not-engineer that ever lived.
 
-	
-<p align='right'>
-	    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-	  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-	  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-	  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-</p>
-<p align='right'>
-	  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-	  <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
-</p>
+I make things with AI and ship them from a terminal. Most of my best work is in private repos — you'll just have to trust me on that.
+
+## What I'm Working On
+
+🧠 **AI companion app** — memory system that actually remembers you (not just your name and that you like coffee)
+
+🧊 **Nix flakes** — packaging developer tools so they Just Work™. [opencode-nix](https://github.com/dominicnunez/opencode-nix) and [claude-code-nix](https://github.com/dominicnunez/claude-code-nix) are the public ones
+
+🔧 **OpenClaw contributor** — [structured error classification](https://github.com/openclaw/openclaw/issues/16521) refactor (PR ready, waiting on maintainers)
+
+🔥 **Thor** — Go-based crypto analytics (private)
+
+## Stack
+
+**Frontend:** SvelteKit · Tailwind · shadcn  
+**Backend:** Convex · Go  
+**Infra:** NixOS · Hetzner Helsinki 🇫🇮  
+**AI:** Claude (obviously)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-natural-talent/)
+
+---
+
+*"Well duh, it remembers you."*
