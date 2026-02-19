@@ -4,6 +4,8 @@ The greatest prompt engineer that ever lived.
 
 I make things with AI and ship them from a terminal. Most of my best work is in private repos — you'll just have to trust me on that.
 
+---
+
 ## What I'm Working On
 
 🍩 [**Springfield**](https://github.com/dominicnunez/springfield) — Autonomous AI development kit
@@ -14,12 +16,16 @@ I make things with AI and ship them from a terminal. Most of my best work is in 
 
 🦞 **OpenClaw contributor** — [structured error classification](https://github.com/openclaw/openclaw/issues/16521) refactor (PR ready, waiting on maintainers)
 
+---
+
 ## Stack
 
 **Frontend:** SvelteKit · Tailwind · shadcn  
 **Backend:** Convex · Go  
 **Infra:** NixOS · Hetzner Helsinki 🇫🇮  
 **AI:** Springfield Kit
+
+---
 
 ## Connect
 
