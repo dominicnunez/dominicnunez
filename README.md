@@ -6,20 +6,20 @@ I make things with AI and ship them from a terminal. Most of my best work is in 
 
 ## What I'm Working On
 
+🍩 [**Springfield**](https://github.com/dominicnunez/springfield) — Autonomous AI development kit
+
 🧠 **AI companion** — memory system that actually remembers more than your name (private)
 
 ❄️ **Nix flakes** — packaging developer tools so they just work
 
 🦞 **OpenClaw contributor** — [structured error classification](https://github.com/openclaw/openclaw/issues/16521) refactor (PR ready, waiting on maintainers)
 
-⚡ **Thor** — Go-based crypto analytics (private)
-
 ## Stack
 
 **Frontend:** SvelteKit · Tailwind · shadcn  
 **Backend:** Convex · Go  
 **Infra:** NixOS · Hetzner Helsinki 🇫🇮  
-**AI:** Anthropic, OpenAI, Gemini, etc.
+**AI:** Springfield Kit
 
 ## Connect
 
